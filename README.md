@@ -1,6 +1,6 @@
 # Задание 1
 
-'''
+```
 using System;
 namespace lab1
 {
@@ -26,13 +26,13 @@ namespace lab1
        }
     }
 }
-'''
+```
 
 Вывод программы 
 ![image](https://github.com/user-attachments/assets/a8c0e096-aded-4b17-abb7-37f976789a12)
 # Задание 2
 
-'''
+```
 using System;
 using System.Drawing;
 using System.Runtime.InteropServices;
@@ -74,12 +74,12 @@ namespace lab1_2
         }
     }
 }
-'''
+```
 Вывод программы
 ![image](https://github.com/user-attachments/assets/a07c4868-287d-429a-9229-328e30288698)
 # Задание 3
 
-'''
+```
 using System;
 using System.Numerics;
 using System.Windows;
@@ -144,6 +144,6 @@ namespace lab1_3
         }
     }
 }
-'''
+```
 Вывод программы
 ![image](https://github.com/user-attachments/assets/ab0320de-f48c-40d0-ac9e-0b8687493350)
