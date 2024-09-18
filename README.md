@@ -8,7 +8,6 @@ namespace lab1
     {
        static void Main(string[] args)
        {
-            // Целочисленные типы данных
             Console.WriteLine($"byte: min = {byte.MinValue}, max = {byte.MaxValue}");
             Console.WriteLine($"sbyte: min = {sbyte.MinValue}, max = {sbyte.MaxValue}");
             Console.WriteLine($"short: min = {short.MinValue}, max = {short.MaxValue}");
@@ -17,26 +16,18 @@ namespace lab1
             Console.WriteLine($"uint: min = {uint.MinValue}, max = {uint.MaxValue}");
             Console.WriteLine($"long: min = {long.MinValue}, max = {long.MaxValue}");
             Console.WriteLine($"ulong: min = {ulong.MinValue}, max = {ulong.MaxValue}");
-
-            // Типы данных с плавающей точкой
             Console.WriteLine($"float: min = {float.MinValue}, max = {float.MaxValue}");
             Console.WriteLine($"double: min = {double.MinValue}, max = {double.MaxValue}");
             Console.WriteLine($"decimal: min = {decimal.MinValue}, max = {decimal.MaxValue}");
-
-            // Логический тип данных
             Console.WriteLine($"bool: true / false");
-
-            // Символьный тип данных
             Console.WriteLine($"char: min = {char.MinValue}, max = {char.MaxValue}");
-
-            // Структуры
             Console.WriteLine($"DateTime: min = {DateTime.MinValue}, max = {DateTime.MaxValue}");
             Console.WriteLine($"TimeSpan: min = {TimeSpan.MinValue}, max = {TimeSpan.MaxValue}");
-
        }
     }
 }
 '''
+
 Вывод программы 
 ![image](https://github.com/user-attachments/assets/a8c0e096-aded-4b17-abb7-37f976789a12)
 # Задание 2
